@@ -19,8 +19,8 @@ To use the APRS-simulator :
   
 ## Usage notes ##
 
-In setup change the callSign and use your password xxxxx
-change or delete filter request
+In setup change the callSign and use your password xxxxx <br>
+change or delete filter request <br>
 
 ```c++
 void setup() 
@@ -38,10 +38,10 @@ void setup()
   }
 }
 ```
-key p : send position
-key x : send weather
-key u : send telemetry Units
-key t : send telemetry Data
+key p : send position <br>
+key x : send weather <br>
+key u : send telemetry Units <br>
+key t : send telemetry Data <br>
 
 Increase #003 number at each telemetry Data
 
